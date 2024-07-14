@@ -1,6 +1,6 @@
 package edu.enterprise.spring.repository;
 
-import edu.enterprise.spring.model.Empresa;
+import edu.enterprise.spring.model.entity.Empresa;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
