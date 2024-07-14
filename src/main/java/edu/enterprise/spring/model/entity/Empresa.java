@@ -1,4 +1,4 @@
-package edu.enterprise.spring.model;
+package edu.enterprise.spring.model.entity;
 
 
 import jakarta.persistence.*;
